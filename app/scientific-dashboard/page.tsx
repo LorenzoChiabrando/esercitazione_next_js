@@ -13,7 +13,7 @@ import {
   ScientificSidebarNavItem,
   ScientificSidebarSection,
   ScientificToolbarAction,
-} from "@/app/ui/layouts/scientific-dashboard-layout";
+} from "@/app/ui/scientific-dashboard";
 import {
   ArrowDownTrayIcon,
   BoltIcon,
